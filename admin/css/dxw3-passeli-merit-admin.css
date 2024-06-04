@@ -1,0 +1,32 @@
+ /**
+ * CSS for admin
+ */
+
+#dxw3-pm-wrapper .pm {
+    width: 100px;
+}
+
+.dxw3-pm-img {
+    display: flex;
+    align-content: center;
+}
+ 
+#dxw3-pm-wrapper button {
+    background-color: #115172;
+    color: white;
+    padding: 5px 15px;
+    border: none;
+    cursor: pointer;
+}
+ 
+#dxw3-pm-wrapper .yes_valid {
+    color: darkgreen;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+#dxw3-pm-wrapper .no_valid {
+    color: darkred;
+    margin-top: 5px;
+    font-weight: bold;
+}
