@@ -1,0 +1,31 @@
+=== dxw3 WooCommerce Passeli Merit ===
+
+Plugin URI:        https://dx-w3.com/wordpress-plugins/
+Description:       WooCommerce integration with Passeli Merit Accounting pbl.
+Version:           1.1.1
+Author:            dxw3
+Author URI:        https://dx-w3.com
+License:           GPL-2.0+
+License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+Text Domain:       dxw3-passeli-merit
+Domain Path:       /languages
+
+== Description ==
+
+WooCommerce integration with Passeli Merit Accounting system.
+
+== Installation ==
+
+1. Upload the plugin zip file using the WordPress plugins-screen add-new-plugin-functionality.
+2. Activate the plugin on the plugins-screen in WordPress
+
+== Changelog ==
+
+= 1.1.1 =
+- stripped open source version
+
+= 1.1.0 =
+- invoicing features improvement
+
+= 1.0.0 =
+- initial version
