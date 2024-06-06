@@ -1,0 +1,30 @@
+<p align="center">
+    <img href="https://dx-w3.com" src="https://www.dx-w3.com/wp-content/uploads/2023/11/dxw3_logo_square_250x250-150x150.png"> 
+</p>
+# dxw3 WooCommerce Passeli Merit
+***WooCommerce integration to Passeli Merit accounting system***
+
+This WordPress plugin integrates WooCommerce to Passeli Merit system.
+## Features
+
+The plugin includes the basic functionalities of the integration of the e-commerce store and the accounting system.
+
+- sends invoices to Passeli Merit
+- poll for the status of the invoices and update WC
+- record invoice information from Passeli Merit to the order information in WC
+- handle notification emailing
+
+The plugin picks some popular WooCommerce fields to be used in invoice creation. Automatic invoicing is disabled in this plugin.
+
+## Tech
+
+Uses PHP and REST API according to the API [spec](https://api.passelimerit.fi/connecting-robots/reference-manual/).
+
+## Installation
+
+Clone and upload to the plugins directory.
+
+## Usage
+
+Insert the API key and token from your Passeli Merit account in WP admin.
+
